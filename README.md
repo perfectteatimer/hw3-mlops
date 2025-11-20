@@ -10,7 +10,7 @@ hw3-mlops/
 ├── README.md
 │
 ├── data/
-│   └── train.csv
+│   └── train.csv -- не забудьте добавить
 │
 ├── producer/
 │   ├── Dockerfile
@@ -26,7 +26,7 @@ hw3-mlops/
 │   ├── query_max_category_per_state.sql
 │   └── ddl_optimized_step2.sql
 │
-└── results/
+└── results/ -- сгенерируется 
     └── max_category_per_state.csv
 ```
 
